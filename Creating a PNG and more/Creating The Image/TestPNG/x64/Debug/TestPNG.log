@@ -1,0 +1,7 @@
+﻿  test.cpp
+c:\compxxxx\testpng\pngwriter.h(2618): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\compxxxx\testpng\pngwriter.h(2987): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\compxxxx\testpng\pngwriter.h(4388): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\compxxxx\testpng\test.cpp(192): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TestPNG.vcxproj -> C:\COMPxxxx\TestPNG\x64\Debug\TestPNG.exe
+  TestPNG.vcxproj -> C:\COMPxxxx\TestPNG\x64\Debug\TestPNG.pdb (Full PDB)

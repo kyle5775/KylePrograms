@@ -1,0 +1,7 @@
+﻿  PNGForm.cpp
+c:\compxxxx\guipng\pngwriter.h(2618): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\compxxxx\guipng\pngwriter.h(2987): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\compxxxx\guipng\pngwriter.h(4388): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PNGForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  GUIpng.vcxproj -> C:\COMPxxxx\GUIpng\x64\Debug\GUIpng.exe
+  GUIpng.vcxproj -> C:\COMPxxxx\GUIpng\x64\Debug\GUIpng.pdb (Partial PDB)
